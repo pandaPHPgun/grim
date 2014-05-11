@@ -43,5 +43,6 @@ require('header.php');
 
 <?php
 
+require('rightm.php');
 require('footer.php');
 ?>
