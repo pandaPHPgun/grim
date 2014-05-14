@@ -49,7 +49,7 @@
             </a>
             <ul class="dropdown-menu">
               <li>
-                <a href="admins.html">Администрация</a>
+                <a href="admins.php">Администрация</a>
               </li>
               <li class="divider"></li>
               <li>
