@@ -5,7 +5,6 @@ require('header.php');
 
 ?>
 
-
 <div class="col-md-9">
 
 <div class="panel panel-default">
@@ -34,14 +33,7 @@ require('header.php');
 <p> adadad</p>
 </div>
 </div>
-
-
-
-
-
-
 </div>
-
 
 <?php
 require('rightm.php');
